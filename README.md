@@ -1,2 +1,1 @@
-# boxing-bot-backend
-波形bot管理后台
+#python脚手架项目
